@@ -1,3 +1,3 @@
 # CS1-Projects
 
-Example answers for the Cambridge Rindge and Lating CS1 course.
+Python files are viewable in GitHub browser, Scratch files need to be downloaded and opened in a browser.
